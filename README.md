@@ -2,7 +2,7 @@
 Projectile motion simulation without Unity physics. Made with **[Unity](https://unity.com/)**.
 
 ## Mechanics
-* Camera Movement
+* Camera movement
 * Ball projectile motion without Unity physics.
 * Ball bounce
 
